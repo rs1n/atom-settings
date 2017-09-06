@@ -5,6 +5,18 @@
   core:
     automaticallyUpdate: false
     closeEmptyWindows: false
+    disabledPackages: [
+      "archive-view"
+      "exception-reporting"
+      "language-clojure"
+      "language-make"
+      "language-perl"
+      "language-objective-c"
+      "metrics"
+      "open-on-github"
+      "package-generator"
+      "styleguide"
+    ]
     telemetryConsent: "no"
   editor:
     invisibles:
