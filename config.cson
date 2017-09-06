@@ -1,0 +1,25 @@
+"*":
+  "atom-beautify":
+    general:
+      showLoadingView: false
+  core:
+    automaticallyUpdate: false
+    closeEmptyWindows: false
+    telemetryConsent: "no"
+  editor:
+    invisibles:
+      eol: " "
+    showInvisibles: true
+  linter:
+    lintPreviewTabs: false
+  "linter-ui-default":
+    useBusySignal: false
+  minimap:
+    adjustMinimapWidthOnlyIfSmaller: false
+    adjustMinimapWidthToSoftWrap: false
+    devicePixelRatioRounding: false
+    displayPluginsControls: false
+    minimapScrollIndicator: false
+    smoothScrolling: false
+  welcome:
+    showOnStartup: false
