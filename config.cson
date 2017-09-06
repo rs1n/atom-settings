@@ -35,5 +35,10 @@
     displayPluginsControls: false
     minimapScrollIndicator: false
     smoothScrolling: false
+  "prettier-atom":
+    prettierOptions:
+      semi: false
+      singleQuote: true
+    useEditorConfig: false
   welcome:
     showOnStartup: false

@@ -32,4 +32,4 @@
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
 
 'atom-text-editor':
-  'ctrl-alt-l': 'linter-rubocop:fix-file' # Format ruby files with Rubocop.
+  'ctrl-alt-r': 'linter-rubocop:fix-file' # Format ruby files with Rubocop.
