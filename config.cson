@@ -41,6 +41,7 @@
     smoothScrolling: false
   "prettier-atom":
     prettierOptions:
+      jsxBracketSameLine: true
       semi: false
       singleQuote: true
     useEditorConfig: false
