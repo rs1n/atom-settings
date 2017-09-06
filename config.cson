@@ -1,7 +1,4 @@
 "*":
-  "atom-beautify":
-    general:
-      showLoadingView: false
   core:
     automaticallyUpdate: false
     closeEmptyWindows: false
