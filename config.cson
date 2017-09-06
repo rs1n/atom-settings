@@ -8,14 +8,19 @@
     disabledPackages: [
       "archive-view"
       "exception-reporting"
+      "language-c"
       "language-clojure"
+      "language-csharp"
+      "language-java"
       "language-make"
       "language-perl"
       "language-objective-c"
+      "link"
       "metrics"
       "open-on-github"
       "package-generator"
       "styleguide"
+      "update-package-dependencies"
     ]
     telemetryConsent: "no"
   editor:
