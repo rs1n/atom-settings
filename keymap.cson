@@ -33,3 +33,4 @@
 
 'atom-text-editor':
   'ctrl-alt-r': 'linter-rubocop:fix-file' # Format ruby files with Rubocop.
+  'ctrl-b': 'goto-definition:go' # Go to definition.

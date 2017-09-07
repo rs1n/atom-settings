@@ -28,6 +28,8 @@
     invisibles:
       eol: " "
     showInvisibles: true
+  "goto-definition":
+    contextMenuDisplayAtFirst: false
   linter:
     lintPreviewTabs: false
   "linter-ui-default":
