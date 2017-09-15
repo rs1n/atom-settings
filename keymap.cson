@@ -34,4 +34,6 @@
 'atom-text-editor':
   'ctrl-alt-r': 'linter-rubocop:fix-file' # Format ruby files with Rubocop.
   'ctrl-b': 'goto-definition:go' # Go to definition.
+
+'atom-workspace':
   'alt-t': 'atom-terminal:open-project-root' # Open a terminal at project root.
