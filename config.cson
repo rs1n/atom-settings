@@ -4,7 +4,6 @@
       "linter-ui-default"
     ]
   core:
-    automaticallyUpdate: false
     closeEmptyWindows: false
     disabledPackages: [
       "archive-view"
@@ -22,6 +21,9 @@
       "package-generator"
       "styleguide"
       "update-package-dependencies"
+    ]
+    packagesWithKeymapsDisabled: [
+      "atom-terminal"
     ]
     telemetryConsent: "no"
   editor:
