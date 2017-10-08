@@ -28,6 +28,7 @@
     telemetryConsent: "no"
   editor:
     invisibles:
+      cr: " "
       eol: " "
     showInvisibles: true
   "goto-definition":
