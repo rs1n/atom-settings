@@ -33,6 +33,7 @@
 
 'atom-text-editor':
   'ctrl-alt-r': 'linter-rubocop:fix-file' # Format ruby files with Rubocop.
+  'ctrl-alt-l': 'prettier:format' # Format web files with Prettier.
   'ctrl-b': 'goto-definition:go' # Go to definition.
 
 'atom-workspace':
