@@ -7,4 +7,4 @@ linter-eslint@8.4.0
 linter-rubocop@2.2.0
 linter-ui-default@1.6.10
 minimap@4.29.7
-prettier-atom@0.41.0
+prettier-atom@0.43.0
