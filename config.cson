@@ -4,6 +4,7 @@
       "linter-ui-default"
     ]
   core:
+    autoHideMenuBar: true
     closeEmptyWindows: false
     disabledPackages: [
       "archive-view"
@@ -46,7 +47,6 @@
     smoothScrolling: false
   "prettier-atom":
     prettierOptions:
-      jsxBracketSameLine: true
       semi: false
       singleQuote: true
     useEditorConfig: false
