@@ -13,6 +13,7 @@
       "language-clojure"
       "language-csharp"
       "language-java"
+      "language-javascript"
       "language-make"
       "language-perl"
       "language-objective-c"

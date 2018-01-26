@@ -1,7 +1,7 @@
 atom-terminal
 file-type-icons
 goto-definition
-language-javascript-jsx
+language-babel
 linter
 linter-eslint
 linter-rubocop
