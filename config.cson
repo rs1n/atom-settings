@@ -11,10 +11,13 @@
       "exception-reporting"
       "language-c"
       "language-clojure"
+      "language-coffee-script"
       "language-csharp"
       "language-java"
       "language-javascript"
+      "language-less"
       "language-make"
+      "language-mustache"
       "language-perl"
       "language-objective-c"
       "link"
@@ -32,7 +35,7 @@
     invisibles:
       cr: " "
       eol: " "
-    preferredLineLength: 100
+    preferredLineLength: 90
     showInvisibles: true
   "goto-definition":
     contextMenuDisplayAtFirst: false
@@ -49,7 +52,7 @@
     smoothScrolling: false
   "prettier-atom":
     prettierOptions:
-      printWidth: 100
+      printWidth: 90
       semi: false
       singleQuote: true
     useEditorConfig: false
