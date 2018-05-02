@@ -1,8 +1,4 @@
 "*":
-  "atom-package-deps":
-    ignored: [
-      "linter-ui-default"
-    ]
   core:
     autoHideMenuBar: true
     closeEmptyWindows: false
@@ -19,6 +15,7 @@
       "language-make"
       "language-mustache"
       "language-perl"
+      "language-property-list"
       "language-objective-c"
       "link"
       "metrics"
@@ -26,6 +23,7 @@
       "package-generator"
       "styleguide"
       "update-package-dependencies"
+      "welcome"
     ]
     packagesWithKeymapsDisabled: [
       "atom-terminal"
@@ -39,10 +37,6 @@
     showInvisibles: true
   "goto-definition":
     contextMenuDisplayAtFirst: false
-  linter:
-    lintPreviewTabs: false
-  "linter-ui-default":
-    useBusySignal: false
   minimap:
     adjustMinimapWidthOnlyIfSmaller: false
     adjustMinimapWidthToSoftWrap: false
@@ -55,6 +49,5 @@
       printWidth: 90
       semi: false
       singleQuote: true
-    useEditorConfig: false
   welcome:
     showOnStartup: false
